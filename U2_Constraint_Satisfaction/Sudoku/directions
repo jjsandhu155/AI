@@ -1,0 +1,5 @@
+Use Simon Tatham's Solo game to make boards larger than 9x9.
+Boards with sub-blocks that aren't square are always wider than they are tall, and always use the two factors closest to the square root.
+So, a 12x12 board will always have sub-blocks that are four squares wide and three squares high; not three wide and four high, and not six wide and two high.
+
+Watch an optional video about Part 1, step 4 (generating constraint and neighbor sets) here.  Watch the video, read the description, let me know if you have questions.
