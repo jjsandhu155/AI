@@ -1,2 +1,2 @@
 # AI
-Repository of AI 1 and 2 @ TJHSST. Projects range from neural networks and genetic algorithms to perfect Tic Tac Toe AI's.
+Repository of AI Work @ TJHSST. Projects demonstrate proficiencies including but not limited to - basic search algorithms (BFS, DFS, A*, Etc.), heuristics, perceptrons and neural networks, constraint satisfaction, back/forward propogation, genetic algorithms, and more. 
